@@ -7,6 +7,7 @@ Projects to be done:
 - [ ] web scraping something
 - [ ] Reddit bot
 - [ ] Discord Bot
-- [ ] Quiz 
+- [ ] Quiz
+- [ ] Interactive Map for [Game]
 
 
